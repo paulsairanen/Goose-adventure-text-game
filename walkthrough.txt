@@ -1,0 +1,21 @@
+Goose adventure walkthrough:
+
+- The map is a 3x3 grid and you start from the bottom center.  
+
+- First go to the top left grid ("go west", "go north", "go north") and "eat western grass".  
+    
+- Go to top center grid ("go east") and "talk" to humans to get a Key.
+																
+- Go to top right grid ("go east") and "eat eastern grass".  		
+
+- Go to center right grid ("go south") and "use key" to open treasure chest  
+
+- Go to starting point (bottom center grid) ("go south", "go west") to escape the fox. You should have now won the game.                              
+
+- If you "eat green stuff" in the center left grid, you have to go to other places on the grid to eat grass (since you lose one lifepoint). Also if you go to starting point before you have the "energy drink" you will lose one lifepoint (or lose the game if your lifepoints reach 0).
+
+- Once the two ininial grasses have been eaten the next places are randomly generated to eighter top left and center or top right and center. To open the treasure chest, you need the key and you get one by talking ("talk") to people (top center grid).
+
+- There's a mystery box you can open (on the coast) that contains "coffee". The "coffee" is not mandatory item but it can be "used" to gain one extra lifepoint.
+
+- To win the game you have to have at least 4 lifepoints and have "energy drink" before you go back to starting point.
